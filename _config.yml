@@ -17,7 +17,7 @@ title: Samuel Mešša
 email: samo.messa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Template description until i bother with something more thoughtful.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /home # the subpath of your site, e.g. /blog
 url: https://samuelmessa.me/ # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: jekyllrb
